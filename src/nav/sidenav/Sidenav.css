@@ -1,0 +1,17 @@
+
+
+.side-nav{
+    padding: 15px 0px 15px 15px;
+  }
+
+  .nav-item i{
+    padding-right: 15px;
+  }
+  
+  .nav-item a{
+    color: black;
+  }
+
+  .nav-sub-items{
+    list-style: none;
+  }
